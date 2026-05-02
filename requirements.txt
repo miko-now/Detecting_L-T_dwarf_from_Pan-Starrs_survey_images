@@ -1,0 +1,13 @@
+pillow
+astropy
+opencv-python
+matplotlib
+numpy
+torch==2.2.2
+ultralytics==8.3.180
+pyyaml==6.0.2
+huggingface_hub
+timm
+einops
+
+
