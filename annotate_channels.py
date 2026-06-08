@@ -2,7 +2,7 @@
 Custom annotation function for 5-channel npy image channel annotation and visualization
 Uses astropy's HistEqStretch for single-channel image processing and PIL for annotation
 """
-
+import matplotlib.pyplot as plt
 import numpy as np
 from astropy.io import fits
 from astropy.visualization import ImageNormalize, MinMaxInterval, HistEqStretch
