@@ -159,6 +159,6 @@ ChatGPT was used for code-assistance during preparation and refinement of parts 
 
 ## License and archival release
 
-This repository should be distributed with a reuse license compatible with the included local inference code. Because the repository includes local code derived from Ultralytics, the release should include an appropriate license file and retain the corresponding source code.
+This repository is released under the GNU Affero General Public License v3.0; see the `LICENSE` file. The repository includes local inference code derived from Ultralytics, and the corresponding source code is provided in the local `ultralytics/` directory.
 
 A formal tagged release of the repository should be created for the manuscript revision. The tagged release will be archived in a DOI-issuing repository such as Zenodo before final publication, and the manuscript will cite both the GitHub repository and the archived DOI release.
